@@ -1,0 +1,109 @@
+{
+  "item": {
+    "id": "com.bambu.watch.status",
+    "restype": "quick_app",
+    "name": "Bambu Vela",
+    "description": "可以在小米vela设备上看拓竹3D打印机的情况，实时了解进度\n非常好用，都快来用\n手表适配中...",
+    "preview": [
+      "media/幻灯片2.png",
+      "media/幻灯片3.png",
+      "media/幻灯片4.png",
+      "media/幻灯片5.png",
+      "media/幻灯片6.png",
+      "media/幻灯片7.png",
+      "media/幻灯片8.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/幻灯片1.png",
+    "author": [
+      {
+        "name": "BasinPen",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-手环11-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-手环11-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-手环10-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-手环10-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-手环9-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-手环10Pro-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-手环9Pro-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-圆表盘-v1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-圆表盘-v1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-圆表盘-v1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmws541": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-圆表盘-v1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-圆表盘-v1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-圆表盘-v1.0.0.rpk",
+      "versionCode": 5
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-手表端-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-手表端-v1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/BambuVela-手表端-v1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
